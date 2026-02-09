@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Project specifics
+extracted_output.txt
+*.pdf
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+
+# UV
+uv.lock
+.python-version
