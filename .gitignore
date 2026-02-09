@@ -21,3 +21,4 @@ extracted_output.txt
 # UV
 uv.lock
 .python-version
+.env
