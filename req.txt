@@ -1,3 +1,6 @@
 pymupdf
 pillow
 pytesseract
+openai 
+pymupdf 
+pillow
